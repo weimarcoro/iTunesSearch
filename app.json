@@ -1,0 +1,12 @@
+{
+  "name": "nox_poc",
+  "displayName": "nox_poc",
+  "expo": {
+    "name": "nox_poc",
+    "slug": "nox_poc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
